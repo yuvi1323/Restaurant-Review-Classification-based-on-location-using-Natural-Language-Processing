@@ -1,4 +1,4 @@
-**Goals and Objectives:**
+ **Goals and Objectives:**
 
 **Motivation:**
 
@@ -25,3 +25,22 @@ The specific objectives of this project are to:
   ● The NLP model will be trained on a dataset of restaurant reviews based on labeled as generic labels like positive, negative, or neutral.
   
   ● The model will learn to identify the features of restaurant reviews associated with each sentiment category.
+
+**References:**
+
+● Yelp, Inc. (2022, March 17). Yelp dataset. Kaggle. https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_ dataset_review.json
+
+● Wiener-Bronner, D. (2022, November 15). Restaurant sales are going up. but dining out is on the decline | CNN business. CNN. https://www.cnn.com/2022/11/15/business/restaurant-sales-traffic/index.html
+
+● Google. (n.d.). Google.
+https://developers.google.com/maps/documentation/places/web-service/overview
+
+● Kim, Y. (n.d.). Convolutional neural networks for sentence classification. ACL Anthology. https://aclanthology.org/D14-1181/
+
+● Natural language processing with python by Steven L. Bird, Edward Loper, and Ewan Klein (2009). NLTK Book. (n.d.-a). https://www.nltk.org/book/
+
+● 6 funny restaurant reviews that prove people are serious about food. RSS. (n.d.).
+https://get.popmenu.com/post/funny-restaurant-reviews?utm_source=google&utm_ medium=search&utm_campaign=prsp_pmax_menu&utm_term=&gclid=CjwKCAjws KqoBhBPEiwALrrqiLxRp8uQJpkts5nrwv0894hGc3yaIbOFc7Q4hlPGmnJZUvRk1uhk 4xoCU5AQAvD_BwE
+
+● 8 hilariously bad restaurant reviews to read (and learn from). (n.d.-a).
+https://pos.toasttab.com/blog/on-the-line/bad-restaurant-reviews
